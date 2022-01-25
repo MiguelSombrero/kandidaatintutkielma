@@ -1,4 +1,4 @@
-# kandidaatintutkielma
+# Kandidaatintutkielma
 
 Luonnontieteiden kandidaatti, Tietojenkäsittelytiede, Helsingin yliopisto
 
@@ -12,4 +12,4 @@ Tutkielman perusteella ohjelmistoprojektien suurimmat haasteet liittyvät vaatim
 
 ## tutkielma
 
-[https://github.com/MiguelSombrero/kandidaatintutkielma/blob/main/miika_somero_virtuaalisten_tiimien_haasteet_ohjelmistoprojekteissa.pdf](koko tutkielma)
+[Koko tutkielma](https://github.com/MiguelSombrero/kandidaatintutkielma/blob/main/miika_somero_virtuaalisten_tiimien_haasteet_ohjelmistoprojekteissa.pdf)
