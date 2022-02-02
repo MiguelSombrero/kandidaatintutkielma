@@ -10,6 +10,6 @@ Tässä tutkielmassa perehdytään virtuaalisten tiimien haasteisiin ohjelmistop
 
 Tutkielman perusteella ohjelmistoprojektien suurimmat haasteet liittyvät vaatimusmäärittelyyn, kommunikointiin ja asiakkaan sitoutumiseen. Myös riskienhallinta ja resursointi vaikuttavat merkittävästi ohjelmistoprojektin onnistumiseen. Virtuaalisissa tiimeissä erityisesti tiedonsiirron, kommunikaation ja tiimin jäsenten välisen luottamuksen merkitys korostuu suhteessa perinteisiin ohjelmistotiimeihin. Virtuaalisten tiimien erityishaasteina nousivat esiin myös kielelliset, kulttuuriset ja teknologiset haasteet - joskaan kieli- ja kulttuurieroja ei voida pitää tiimin virtuaalisuudesta johtuvina haasteina sinänsä, vaan seurauksena maailmanlaajuisesti hajautetusta ohjelmistokehityksestä.
 
-## tutkielma
+## Tutkielma
 
-[Koko tutkielma](https://github.com/MiguelSombrero/kandidaatintutkielma/blob/main/miika_somero_virtuaalisten_tiimien_haasteet_ohjelmistoprojekteissa.pdf)
+[Lue tutkielma tästä](https://github.com/MiguelSombrero/kandidaatintutkielma/blob/main/miika_somero_virtuaalisten_tiimien_haasteet_ohjelmistoprojekteissa.pdf)
